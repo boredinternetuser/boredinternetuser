@@ -11,7 +11,7 @@
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://hamza.id/">Hamza</a></b>
         </samp>
-
+</h3>
 <p align="center"> 
   <samp>
     <br>
