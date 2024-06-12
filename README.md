@@ -12,9 +12,9 @@
                 <b><a target="_blank" href="https://hamza.id/">Hamza</a></b>
         </samp>
 </h3>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&center=true&vCenter=true&random=false&width=435&height=25&lines=OSINT+Researcher;Cybersecurity+Enthusiast;Curious+Student)](https://git.io/typing-svg)
-
+<p align="center"> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&random=false&width=435&height=25&lines=OSINT+Researcher;Cybersecurity+Enthusiast;Curious+Student)](https://git.io/typing-svg)
+</p>
 <p align="center"> 
   <samp>
     <br>
