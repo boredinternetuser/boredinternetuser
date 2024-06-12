@@ -24,13 +24,13 @@
 </p>
 
 <p align="center">
- <a href="https://hamza.id/" target="_blank">
+ <a href="https://hamza.id/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="personal website" />
  </a>
- <a href="https://dev.to/oppress" target="_blank">
+ <a href="https://dev.to/oppress" target="blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to page" />
  </a> 
- <a href="https://twitter.com/RelaxHamza" target="_blank">
+ <a href="https://twitter.com/RelaxHamza" target="blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="my twitter" />
  </a>
 </p>
