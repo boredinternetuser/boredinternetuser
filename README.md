@@ -13,7 +13,7 @@
         </samp>
 </h3>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&center=true&vCenter=true&random=false&width=435&height=25&lines=OSINT+Researcher;Cybersecurity+Enthusiast;Curious+Student)]
 <p align="center"> 
   <samp>
     <br>
@@ -42,9 +42,9 @@
 <p>
  <img align="right" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGEzdnE4dGx2bmY3cG14enR2YXRzMmRkbWR4ODdhMWxxYnJocXptNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.webp" alt="Big Hacker gif" />
   
- 🌐 &emsp; Enjoy working on random projects when I'm bored <br/><br/>
+ 🌐 &emsp; Work on random projects when I'm bored <br/><br/>
  🔎 &emsp; OSINT Researcher and Cybersecurity Enthusiast <br/><br/>
- 📕 &emsp; Still a student <br/><br/>
+ 📕 &emsp; A student working his way around things <br/><br/>
  📧 &emsp; Reach me at: hamzaa@tutamail.com <br/><br/>
 
 </p>
