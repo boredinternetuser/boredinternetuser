@@ -44,6 +44,7 @@
   
  🌐 &emsp; Enjoy working on random projects when I'm bored <br/><br/>
  🔎 &emsp; OSINT Researcher and Cybersecurity Enthusiast <br/><br/>
+ 📕 &emsp; Still a student <br/><br/>
  📧 &emsp; Reach me at: hamzaa@tutamail.com <br/><br/>
 
 </p>
